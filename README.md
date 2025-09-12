@@ -8,11 +8,18 @@ My main interests are:
 - Robotics
 - Embedded development
 
+I'm motivated by curiosity and want to contribute to software.
+
 # My skills:
 ## Languages & Tecnologies
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,java,python,docker,git,linux,bash,cs,css,html,jquery,mysql,dotnet)](https://skillicons.dev)
-## Frameworks
-[![My Skills](https://skillicons.dev/icons?i=pytorch,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,java,python,cs,bash)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=docker,git,linux,css,html,jquery,mysql,dotnet,pytorch,fastapi)](https://skillicons.dev)
 # What i'm doing right now
-I'm pursuing my MD degree in AI, but i'm always open to any kind of collaboration!
+
+I'm pursuing my MD degree in AI, exploring self hosting, game development and backend development.
+
+Feel fry to contact me for any kind of collaboration:
+- [Linkedin](https://www.linkedin.com/in/mirko-michele-d-b30700199/)
+- Email: mirdan0825@gmail.com
 
