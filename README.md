@@ -12,7 +12,11 @@ I'm motivated by curiosity and want to contribute to software.
 
 # My skills:
 ## Languages & Tecnologies
+- languages
+
 [![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,java,python,cs,bash)](https://skillicons.dev)
+
+- tecnologies
 
 [![My Skills](https://skillicons.dev/icons?i=docker,git,linux,css,html,jquery,mysql,dotnet,pytorch,fastapi)](https://skillicons.dev)
 # What i'm doing right now
