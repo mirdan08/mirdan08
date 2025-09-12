@@ -18,7 +18,7 @@ I'm motivated by curiosity and want to contribute to software.
 
 - tecnologies
 
-[![My Skills](https://skillicons.dev/icons?i=docker,git,linux,css,html,jquery,mysql,dotnet,pytorch,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,gitlab,linux,css,html,jquery,mysql,dotnet,pytorch,fastapi)](https://skillicons.dev)
 # What i'm doing right now
 
 I'm pursuing my MD degree in AI, exploring self hosting, game development and backend development.
