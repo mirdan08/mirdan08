@@ -9,20 +9,24 @@ But i also love to explore robotics, games and embedded development!
 
 I'm motivated by curiosity and i want to contribute to software.
 
-# My skills:
 ## Languages & Tecnologies
 - languages
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,java,python,cs,bash)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cpp,java,python,cs)](https://skillicons.dev)
 
 - tecnologies
 
-[![My Skills](https://skillicons.dev/icons?i=docker,git,gitlab,linux,css,html,jquery,mysql,dotnet,pytorch,fastapi)](https://skillicons.dev)
-# What i'm doing right now
+[![My Skills](https://skillicons.dev/icons?i=mysql,docker,git,gitlab,linux,bash)](https://skillicons.dev)
 
-I'm pursuing my MD degree in AI, exploring self hosting, distributed systems and ML engineering.
+- frameworks
 
+[![My Skills](https://skillicons.dev/icons?i=jquery,dotnet,fastapi,pytorch)](https://skillicons.dev)
+
+## What i'm doing right now
+
+I'm pursuing my Msc degree in AI, exploring self hosting, distributed systems and ML engineering.
+# Contacts
 Feel free to contact me for any kind of collaboration:
-- [Linkedin](https://www.linkedin.com/in/mirko-michele-d-b30700199/)
+- Linkedin profile: [Linkedin](https://www.linkedin.com/in/mirko-michele-d-b30700199/)
 - Email: mirdan0825@gmail.com
 
